@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TenziesGame</string>
+    <string name="start">START</string>
+    <string name="welcome">WELCOME TO TENZIES</string>
+    <string name="rule">Click the image you want to change . All the images should be of same value</string>
+
+</resources>
